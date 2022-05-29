@@ -1,5 +1,5 @@
-# Personal Information Management System
-It is a simple personal information management system
+# Work Reminder 
+It is a simple work reminder system
 
 Basic Architecture: Bean DAO Service C3P0
 
