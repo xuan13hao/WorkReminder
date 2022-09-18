@@ -2,7 +2,7 @@
 It is a simple work reminder system
 
 # Basic Architecture
-## Bean store data 
+## Bean
 Store data from the database. Store data from the client (form submission), intermediary role of storing data
 
 ## DAO (Data Access Object)
